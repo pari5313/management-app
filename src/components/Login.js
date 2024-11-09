@@ -78,7 +78,7 @@ const Login = () => {
                         </Form>
                         <p className='mt-3'>
                             Do not Have an Account? 
-                            <span><NavLink to="/">Sign In</NavLink></span>
+                            <span><NavLink to="/">Sign Up</NavLink></span>
                         </p>
                     </div>
                     <SIgn_img />
